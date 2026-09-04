@@ -2,7 +2,7 @@
 
 # Hello, I'm Manar Merhi 👋
 
-**Computer & Communications Engineer · Full-Stack Developer**
+**Computer & Communications Engineer · Full-Stack Developer . Private Tutor**
 
 Saida - Lebanon
 
