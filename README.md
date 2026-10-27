@@ -2,7 +2,7 @@
 
 # Hello, I'm Manar Merhi 👋
 
-**Computer & Communications Engineer · Full-Stack Developer . Private Tutor**
+**Computer & Communications Engineer · Technical Sales Engineer . Private Tutor**
 
 Saida - Lebanon
 
@@ -17,6 +17,7 @@ I'm a Computer & Communications Engineer. I build full-stack web applications an
 - 🎓 B.E. in Computer & Communications Engineering, Rafik Hariri University
 - 🌐 Full-stack experience across internships and freelance work
 - 💼 Tutoring experience across apprenticeships and freelance work
+- 💵 Currently Working in technical sales 
 - 🎯 Looking for software engineering opportunities
 
 ---
